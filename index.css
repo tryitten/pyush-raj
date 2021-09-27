@@ -1,5 +1,5 @@
 BODY{
-/* background-color:rgb(235, 224, 224) ; */
+ background:rgb(221, 194, 154) ; 
 position: relative;
 font-family: 'Lobster', cursive;
 background-size: 100%;
@@ -9,9 +9,10 @@ background-size: 100%;
 
 
 .happy{
-       color: rgb(219, 17, 17); 
-       font-size: 50px;
-       text-shadow: 2px 5px 5px  rgb(10, 202, 228);
+       color: #5b90a9; 
+       font-size: 60px;
+       
+       text-shadow: 2px 5px 5px  rgb(0, 0, 0);
        padding-left: 5%;
 } 
 
@@ -27,4 +28,27 @@ background-size: 100%;
        padding-left:30px;
        padding-right:30px;
        padding-bottom: 50%;
+}
+.photo{
+
+       font-size: 50px;
+       color: blue;
+       padding-left: 30%;
+       
+}
+
+h5{
+       color: aqua;
+       font-size:40px;
+}
+
+P{
+       color: rgb(0, 0, 0);
+       font-size:40px;       
+}
+
+.image{
+       padding-top: 0%;
+       width: 10px;
+       height: 20px;
 }
